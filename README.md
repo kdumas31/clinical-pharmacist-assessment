@@ -2,6 +2,11 @@
 
 A standardized, mobile-friendly web application for assessing the clinical performance of acute care hospital pharmacists. Grounded in nationally recognized standards from ASHP, ACCP, and the JCPP Pharmacists' Patient Care Process (PPCP).
 
+**Live app:** [rx-pharmacist-assessment.streamlit.app](https://rx-pharmacist-assessment.streamlit.app/)
+
+![Clinical Pharmacist Assessment app](docs/screenshot.png)
+
+
 ---
 
 ## Standards Alignment
